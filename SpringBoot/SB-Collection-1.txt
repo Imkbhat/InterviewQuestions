@@ -1,0 +1,32 @@
+1. Can we override or replace the Embedded Tomcat server in Spring Boot?
+2. What is Spring Profiles?
+3. How to enable/disable the Actuator?
+4. What does the @SpringBootApplication annotation do internally?
+5. Which is the core annotation of Spring Boot? Which annotations is it mainly composed of?
+6. What are the ways to run Spring Boot?
+7.  What is Swagger? Did you implement it with Spring Boot?\
+8.  What is Spring Batch?
+9. How to implement exception handling using Spring Boot?
+10. How do we monitor all Spring Boot microservices?
+11. Microservices architecture ?
+12. What log framework does Spring Boot support? Which is the recommended and default log framework?
+13. What are the ways in which SpringBoot implements hot deployment?
+14. How Spring Boot Works Internally ?
+15. What is Dependency Injection?
+16. What is Spring IOC containers?
+17.  What beans scopes Spring supports?
+18. What are the different modules/subprojects of the Spring?
+19. What Design patterns are used in Spring framework?
+20. What does @Autowired annotation do?
+21. What does @Qualifier annotation do?
+22. What is the difference between annotations like @Component, @Controller, @Service, and @Repository?
+23. What is the difference between the Singleton Design Pattern and Spring Singleton scope?
+24. What is the difference between BeanFactory and ApplicationContext?
+25. Spring security used in ur app ?
+26. How do you connect db from Spring app ?
+27. Spring transaction Management ?
+28. Spring AOP ?
+29. Spring jpa ? HQL? JPQL ? 
+30. Difference bw YAML and properties file ?
+31. @ManyToMany
+
